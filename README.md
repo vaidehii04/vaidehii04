@@ -1,37 +1,22 @@
-## Hi there 👋
-# Hi, I'm Vaidehi 👋
+_**👋 Hi, I'm Vaidehi Panchal**_
 
-🎓 Engineering student (CSE)  
-💼 Interested in FinTech, Data Engineering, and AI  
-💻 Currently learning Python + SQL + AI tools  
-🌱 Winter Arc 2026 Goals:
-   - Build 2 major Python projects
-   - Complete SQL certification
-   - Create a polished portfolio website
-   - Apply for on-campus jobs and internships
+🎓 Computer Science & Engineering student
+💼 Interested in FinTech, Data Engineering, and Applied AI
+💻 Currently building skills in Python, SQL, and AI-driven development
 
-📌 Featured Projects (coming soon):
-- Python Stock & Portfolio Analyzer
-- SQL Data Pipeline Project
-- Personal Budget Tracker (Python)
-- Weather App (JavaScript)
-- Class Group Projects
+**🌱 Current Learning & Focus Areas **
+Develop two production-style Python projects
+Complete an industry-recognized SQL certification
+Build and deploy a polished portfolio website
+Apply for on-campus roles and early internships
 
-📫 Contact: vaidehip3445@gmail.com
+**📌 Highlighted Projects (in progress)**
+Python Stock & Portfolio Analyzer – API-driven financial insights
+SQL Data Pipeline – automated ETL pipeline with analytics
+Personal Budget Tracker (Python) – expense tracking + visualizations
+Weather App (JavaScript) – user-friendly front-end project
+Academic Projects – collaborative coursework in CS and ECE
 
-
-
-<!--
-**vaidehii04/vaidehii04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+_vaidehip3445@gmail.com
+_
