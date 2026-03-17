@@ -54,4 +54,5 @@
 
 ## 📫 Contact
 
-📧 vaidehip3445@gmail.com  
+📧 vaidehip3445@gmail.com
+📲 +1 (419) 573 2032
